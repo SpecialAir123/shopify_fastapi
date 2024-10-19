@@ -1,5 +1,5 @@
 1. Clone the Repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/SpecialAir123/shopify_fastapi.git
 cd your-repo-name
 
 
