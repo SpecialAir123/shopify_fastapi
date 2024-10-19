@@ -13,7 +13,7 @@ venv\Scripts\activate (For windows)
 pip install -r requirements.txt
 
 4. Copy the variables to the .env
-SHOPIFY_ACCESS_TOKEN=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
+SHOPIFY_ACCESS_TOKEN= "your token"
 SHOPIFY_SHOP_NAME=kangs-international
 
 5. Running the Application
